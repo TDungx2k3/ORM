@@ -17,7 +17,7 @@ app.get('/customers', async (req, res) => {
   })
   res.json(customer);
   //console.log(customer);
-  res.send('halo')
+  //res.send('halo')
 })
 
 
